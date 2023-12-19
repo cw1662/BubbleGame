@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/WaitingRoom/Client.java=UTF-8
+encoding//src/bubble/game/BubbleFrame.java=UTF-8
+encoding//src/bubble/game/component/Bubble.java=UTF-8
+encoding//src/bubble/game/component/Player.java=UTF-8
+encoding//src/bubble/game/service/BackgroundEnemyService.java=UTF-8
+encoding//src/bubble/game/service/BackgroundPlayerService.java=UTF-8

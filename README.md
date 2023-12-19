@@ -24,11 +24,9 @@
 - 인트로 화면 추가
 - 게임 클리어 시 다음 단계로 이동
 - 게임오버 시 게임 자동 종료
- ---  
+
 
 ![오픈소스영상s (2)](https://github.com/cw1662/BubbleGame/assets/101031116/cf74eb12-a267-4224-b18b-af6a6c186b36)
-
-
 
 
 원본 소스코드 출처(URL) : https://github.com/codingspecialist/java-bubble-game-v2

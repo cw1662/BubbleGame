@@ -2,7 +2,7 @@
 
 --
 [ BubbleGame 실행 영상 ] 
---
+
 
 ![구현동영상s](https://github.com/cw1662/BubbleGame/assets/101031116/6b9947d3-473a-464a-8558-2c706bd8a126)
 
